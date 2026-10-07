@@ -4,7 +4,7 @@ A web-based interface for interacting with Claude AI. Beautiful, responsive, and
 
 ## 📸 Screenshot
 
-![Claude Web Interface Repository](./claude-web-interface.png)
+
 
 **Start chatting:** Open `index.html` in any modern browser.
 
